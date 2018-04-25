@@ -1,5 +1,6 @@
 env:
   global:
+    - CC_TEST_REPORTER_ID=a4859c1cf39b33778c44005e622d28e091b598b27c152d927c5bb81cb7304110
 
 language: node_js
 
@@ -18,7 +19,7 @@ before_script:
 
 before_install:
   - npm install -g flow-bin@0.70.0
-  
+
 script:
   - npm run lint
   - npm run testc
