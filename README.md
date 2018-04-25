@@ -1,6 +1,6 @@
 # urbanoe-redux
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/52aff767a58ab47af8c8/maintainability)](https://codeclimate.com/github/mbeauv/urbanoe-redux/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/52aff767a58ab47af8c8/maintainability)](https://codeclimate.com/github/mbeauv/urbanoe-redux/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/52aff767a58ab47af8c8/test_coverage)](https://codeclimate.com/github/mbeauv/urbanoe-redux/test_coverage)
 
 Module defining Redux actions and reducers to interact with the urbanoe server.  The interfaces are defined using Flow.  This module is usable both in React and React Native.
 
